@@ -7,7 +7,7 @@ We are a Deep-Tech startup solving the "Dead Zone" problem in fiber optic monito
 
 ## 🔬 Core Research (2025)
 Our technology is built on three pillars of verified research:
-1. [**Hybrid Security & Fault Detection**](https://doi.org/10.5281/zenodo.18007745) - WEI vs. 5σ Noise.
+1. [**Hybrid Security & Fault Detection**](https://doi.org/10.5281/zenodo.18007745) - Wave Equation Inversion.
 2. [**Multi-Wavelength Soliton Probing**](https://doi.org/10.5281/zenodo.18008242) - Quantum-ready monitoring.
 3. [**Nonlinear Probing Framework**](https://doi.org/10.5281/zenodo.18008410) - Soliton-based security.
 
